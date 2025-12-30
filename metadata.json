@@ -1,0 +1,5 @@
+{
+  "name": "TrialToggle SaaS",
+  "description": "A comprehensive SaaS trial management demonstration featuring switchable usage-based and time-based trial modes controlled by an admin dashboard.",
+  "requestFramePermissions": []
+}
